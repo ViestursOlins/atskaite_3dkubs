@@ -1,0 +1,20 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Tīmekļa lappuse</title>
+</head>
+<body>
+<h1>virsraksts</h1>
+<p>Rindkopa, kas satur neformatētu tekstu. Rindkopa, kas satur neformatētu tekstu. Rindkopa, kas satur neformatētu tekstu. Rindkopa, kas satur neformatētu tekstu. Rindkopa, kas satur neformatētu tekstu.</p> 
+<hr>
+<h2>Teksta noformēšana</h2>
+<p><b>Teksts treknrakstā</b></p>
+<p><i>Teksts slīprakstā</i></p>
+<p><i><b>Teksts slīprakstā un treknrakstā</i></b></p>
+<p><font face="Arial">Teksts fontā Arial</font></p>
+<p><font size="3">Teksta lielums 3 (12pt)<font></p>
+<p><font color="#FF0000">Teksta krāsa sarkana</font></p>
+<p><font face="Arial" font size="3" color="#FF0000"> Teksts dontā Arial, ar lielumu 3, sarkanā krāsā</font></p>
+<hr>
+</body>
+</html>
